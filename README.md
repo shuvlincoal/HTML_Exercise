@@ -28,6 +28,12 @@ Steps are to be completed under the div with `id="exercise2"`
    - The second **anchor** element should link to the _TrueCoders homepage_
    - The third **anchor** element should link to your _most visited website_
 
+
+
+
+
+
+
 ## Exercise 3
 
 Steps are to be completed under the div with `id="exercise3"`
@@ -35,6 +41,12 @@ Steps are to be completed under the div with `id="exercise3"`
 1. Create an **image** element
 2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
 3. Add an **alt** attribute with a _text description_ value of the image
+
+
+
+
+
+
 
 ## Exercise 4
 
@@ -45,6 +57,15 @@ Steps are to be completed under the div with `id="exercise4"`
    - any word "play" is enclosed in an underline element
    - any word "beautiful" is enclosed in an emphasis element
    - any word "point" is enclosed in an strong element
+
+
+
+
+
+
+
+
+
 
 ## Exercise 5
 
